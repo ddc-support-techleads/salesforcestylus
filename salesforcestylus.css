@@ -1,49 +1,4 @@
 /*------------------------------------------------------------------------------------------------------------------*/
-/*Version 3.0*/
-/*------------------------------------------------------------------------------------------------------------------*/
-/*------------------------------------------------------------------------------------------------------------------*/
-/*Special Thanks*/
-/*------------------------------------------------------------------------------------------------------------------*/
-/*
-Dan Cook - Had the original idea in SDEV who Cpta borrowed my inspiration from and for helping to troubleshoot code
-Randy Humphrey - For helping me troubleshoot code and for bouncing ideas off
-James Cameron - For helping me troubleshoot code
-Chris Cota - Original "Caretaker" of this
-*/
-
-/*Testers*/
-/*
-Markus Shinosky
-Brad Day
-Josh Cox
-Craig Conway
-Josh Etter
-*/
-
-/*Legacy Testers*/
-/*
-Andrew Reilly
-Andy George
-Dylon Larose
-Gary Peters
-Joshua Siegartel
-Kevin B. Thibault
-Kyle Hinchliffe
-Patrick Murphy
-Peter Garrow
-Rob Ostrander
-Sam Pratt
-Tucker Bean
-William Drake
-*/
-/*Notes*/
-/*
-.caseTab = for Case view
-.Customer45Tab = Child Case View
-.eflConsoleFrameStyle = Console view
-.eflPageStyle = Sales View
-
-/*------------------------------------------------------------------------------------------------------------------*/
 /*Highlight Priority In Case or Child Case Table*/
 /*------------------------------------------------------------------------------------------------------------------*/
 body .bPageBlock .pbBody .efdFields {margin-top: 150px;}
