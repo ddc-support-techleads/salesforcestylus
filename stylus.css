@@ -58,12 +58,6 @@ body .bPageBlock .pbBody .efdFields {margin-top: 150px;}
 .caseTab div[id*="efjl_"] li:nth-child(1) {
     display: none;
 }
-.caseTab div[id*="efjl_"] li:nth-child(2) {
-    display: none;
-}
-.caseTab div[id*="efjl_"] li:nth-child(8) {
-    display: none;
-}
 .caseTab div[id*="efjl_"] li:nth-child(10) {
     display: none;
 }
