@@ -22,12 +22,12 @@ body .bPageBlock .pbBody .efdFields {margin-top: 150px;}
 #sdHeaderContent .unifiedSearchBox {background: #fff;}
 #sdHeaderContent .sd_logo {background: url("https://www.dealer.com/img/ddc.svg"); height: 30px; width: 100%; background-repeat: no-repeat; top: 15px;}
 #sdHeaderContent .linkElements {top: -20px; position: relative;}
+body li:first-child input.btn {background-color: #000; border-color: #000;}
+body li:first-child input.btn:hover {background-color: #ffa500;}
+.sfxConsole .reportMru .mruIcon {content: url("//pictures.dealer.com/s/spptdemo3/1857/47a07c5917ad46fccbdaac933f904610x.jpg") !important;}
+.sfxConsole .dashboardMru .mruIcon {content: url("//pictures.dealer.com/s/spptdemo3/0010/9e07c34b686d858369e7039c0d11ee7fx.jpg") !important;}
+.x-menu-list-item .reportMru .mruIcon, .x-menu-list-item .dashboardMru .mruIcon {content: initial !important;}
 
-/*Tab Padding - Reduce Tab Padding
-.sd_primary_tabstrip .x-tab-strip-top .x-tab-left,
-.sd_secondary_tabstrip .x-tab-strip-top .x-tab-left {
-    padding: 0 10px;
-}*/
 /*------------------------------------------------------------------------------------------------------------------*/
 /*Cases*/
 /*------------------------------------------------------------------------------------------------------------------*/
