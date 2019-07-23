@@ -20,7 +20,7 @@ body .bPageBlock .pbBody .efdFields {margin-top: 150px;}
 #sdHeaderContent { height: 61px; ; background-repeat: no-repeat; background-size: 350px 65px; background-color:#010001 !important; background-position: 1px 0px;}
 #sdHeaderContent img { display:none; }
 #sdHeaderContent .unifiedSearchBox {background: #fff;}
-#sdHeaderContent .sd_logo {background: url("https://www.dealer.com/img/ddc.svg"); height: 30px; width: 100%; background-repeat: no-repeat; top: 15px;}
+#sdHeaderContent .sd_logo {background: url("//www.dealer.com/app/assets/dealer-dot-com-logo.svg"); height: 30px; width: 100%; background-repeat: no-repeat; top: 15px;}
 #sdHeaderContent .linkElements {top: -20px; position: relative;}
 body li:first-child input.btn {background-color: #000; border-color: #000;}
 body li:first-child input.btn:hover {background-color: #ffa500;}
