@@ -14,6 +14,7 @@ body .bPageBlock .pbBody .efdFields {margin-top: 150px;}
 .x-tab-strip-closable.caseTab.x-tab-strip-active, .x-tab-strip-active {border-top: 3px solid #ffa500 !important;}
 .x-plain-header .tabText{color: #fff;}
 .x-plain-header .x-tab-strip-over .tabText {color: #fff !important;}
+.x-tab-tabmenu-right:after {color: #fff;}
 .setupMru .mruIcon{background-image: url("http://pictures.dealer.com/s/spptdemo3/0791/dc8a202e76ec381c8aed45e95c3c2e74x.jpg") !important;}
 .sfxConsole .caseMru .mruIcon{content: url("http://pictures.dealer.com/s/spptdemo3/0026/8acb2b7246ad49787054de8e11eeb5d9x.jpg") !important;}
 .x-menu-list-item .caseMru .mruIcon{content: initial !important;}
